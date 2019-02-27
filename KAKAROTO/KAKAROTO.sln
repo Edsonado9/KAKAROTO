@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KAKAROTO", "KAKAROTO\KAKAROTO.csproj", "{3ADDFA6F-8389-4BA5-9217-82048D00908C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ADDFA6F-8389-4BA5-9217-82048D00908C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADDFA6F-8389-4BA5-9217-82048D00908C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADDFA6F-8389-4BA5-9217-82048D00908C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADDFA6F-8389-4BA5-9217-82048D00908C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EA6A9B5-443E-4F81-B11F-4C4B84685C55}
+	EndGlobalSection
+EndGlobal
